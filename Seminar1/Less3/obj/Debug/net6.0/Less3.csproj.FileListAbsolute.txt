@@ -1,0 +1,15 @@
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\bin\Debug\net6.0\Less3.exe
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\bin\Debug\net6.0\Less3.deps.json
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\bin\Debug\net6.0\Less3.runtimeconfig.json
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\bin\Debug\net6.0\Less3.dll
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\bin\Debug\net6.0\Less3.pdb
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\obj\Debug\net6.0\Less3.csproj.AssemblyReference.cache
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\obj\Debug\net6.0\Less3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\obj\Debug\net6.0\Less3.AssemblyInfoInputs.cache
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\obj\Debug\net6.0\Less3.AssemblyInfo.cs
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\obj\Debug\net6.0\Less3.csproj.CoreCompileInputs.cache
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\obj\Debug\net6.0\Less3.dll
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\obj\Debug\net6.0\refint\Less3.dll
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\obj\Debug\net6.0\Less3.pdb
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\obj\Debug\net6.0\Less3.genruntimeconfig.cache
+C:\Users\tanuu\Desktop\C#\Seminar1\Less3\obj\Debug\net6.0\ref\Less3.dll
